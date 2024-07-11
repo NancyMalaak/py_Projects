@@ -8,10 +8,8 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
 
 ### Beginner Python Projects
 1. Band Name Generator:
-
   -Details:
 A fun script that generates random band names based on user input.
-  
   -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
   
