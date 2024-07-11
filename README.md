@@ -1,6 +1,6 @@
 # Python Projects Collection
 
- Hi there! I'm Nancy Malaak and welcome to my Python Projects Collection! 🚀
+## Hi there! I'm Nancy Malaak and welcome to my Python Projects Collection! 🚀
 
 Here you'll find a variety of Python projects I've created, ranging from beginner to advanced levels. Each project is designed to help you learn and grow your Python skills. Feel free to explore, suggest improvements, and give it a ⭐ if you like it!
 
