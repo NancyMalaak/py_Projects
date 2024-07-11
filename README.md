@@ -44,7 +44,7 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
  3. Run any of the scripts:
     python "Band Generator.py"
     
- ##Contributing
+ ## Contributing
  
 I'm always looking to improve! If you have any suggestions or want to contribute, feel free to fork the project, create a branch, and submit a pull request. Any feedback is greatly appreciated.Connect with Me
 [LinkedIn Profile](https://www.linkedin.com/in/nancy-malaak-zaki/) | [GitHub Profile](https://github.com/NancyMalaak)       
