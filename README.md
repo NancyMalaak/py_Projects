@@ -1,16 +1,17 @@
 # Python Projects Collection
 
-## Hi there! I'm Nancy Malaak and welcome to my Python Projects Collection! 🚀
+## Hi there! I'm Nancy Malaak and welcome to my Python Projects Collection!
 
 Here you'll find a variety of Python projects I've created, ranging from beginner to advanced levels. Each project is designed to help you learn and grow your Python skills. Feel free to explore, suggest improvements, and give it a ⭐ if you like it!
 
 ## Project Categories
 
 ### Beginner Python Projects
-1. Band Name Generator: https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
-    A fun script that generates random band names based on user input.
-3. Project 2
-4. Project 3
+1. Band Name Generator:
+  -Details: A fun script that generates random band names based on user input.
+  -Link: https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
+2. Project 2
+3. Project 3
 ...
 50. Project 50
 
