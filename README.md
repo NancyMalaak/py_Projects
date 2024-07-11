@@ -11,8 +11,10 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
 
   -Details: A fun script that generates random band names based on user input.
   
-  -Link: https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py 
+  -Link: https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
+  
 2. Project 2
+  
 3. Project 3
 ...
 50. Project 50
