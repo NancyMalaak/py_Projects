@@ -15,9 +15,31 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
   -Link:
   https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
   
-3. Project 2
+2. Age Calculator :
+
+ -Details:
+ Calculates your age based on your birthdate.
+ 
+-Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/age%20calc.py
+
+3.Tip Calculator :
+
+ -Details:
+Helps split the bill and calculate the tip per person in a group.
+
+-Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Tip%20calculator.py
+
+4.BMI Calculator :
+
+-Details:
+Calculates Body Mass Index based on user input for height and weight.
+
+  -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/BMI%20calc.py
   
-4. Project 3
+5. Project 5
 ...
 50. Project 50
 
