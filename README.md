@@ -9,37 +9,54 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
 ### Beginner Python Projects
 1. Band Name Generator:
 
-  -Details:
-  A fun script that generates random band names based on user input.
-
   -Link:
   https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
   
 2. Age Calculator :
 
- -Details:
- Calculates your age based on your birthdate.
- 
 -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/age%20calc.py
 
-3.Tip Calculator :
-
- -Details:
-Helps split the bill and calculate the tip per person in a group.
+ 3.Tip Calculator :
 
 -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/Tip%20calculator.py
 
-4.BMI Calculator :
-
--Details:
-Calculates Body Mass Index based on user input for height and weight.
+ 4.BMI Calculator :
 
   -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/BMI%20calc.py
   
-5. Project 5
+ 5. Rollercoaster game checker:
+
+  -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/rollercoaster%20checker.py
+
+  6. Love Calculator:
+
+  -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/love%20calculator.py
+
+  7. Pizza Order:
+
+-Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Pizza%20Order.py
+
+   8. Even or Odd:
+
+   -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Even%20or%20Odd.py
+
+   9. Tresure Island Game:
+
+   -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Tresure%20Island%20game.py
+
+
+  
+
+
+   
 ...
 50. Project 50
 
