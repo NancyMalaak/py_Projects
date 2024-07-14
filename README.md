@@ -7,12 +7,12 @@ Here you'll find a variety of Python projects I've created, ranging from beginne
 ## Project Categories
 
 ### Beginner Python Projects
-1. Band Name Generator:
+ 1. Band Name Generator:
 
   -Link:
   https://github.com/NancyMalaak/py_Projects/blob/main/Band%20Generator.py
   
-2. Age Calculator :
+ 2. Age Calculator :
 
 -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/age%20calc.py
@@ -32,26 +32,40 @@ https://github.com/NancyMalaak/py_Projects/blob/main/BMI%20calc.py
   -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/rollercoaster%20checker.py
 
-  6. Love Calculator:
+ 6. Love Calculator:
 
   -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/love%20calculator.py
 
-  7. Pizza Order:
+ 7. Pizza Order:
 
 -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/Pizza%20Order.py
 
-   8. Even or Odd:
+ 8. Even or Odd:
 
    -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/Even%20or%20Odd.py
 
-   9. Tresure Island Game:
+ 9. Tresure Island Game:
 
    -Link:
 https://github.com/NancyMalaak/py_Projects/blob/main/Tresure%20Island%20game.py
 
+   10. Heads or Tails Game:
+
+   -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Heads%20or%20Tails.py
+
+ 11. Monkey Position Game:
+
+   -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Monky%20position.py
+
+ 12. Rock-Paper-Scissors:
+
+   -Link:
+https://github.com/NancyMalaak/py_Projects/blob/main/Rock-Paper-Scissors%20Game.py
 
   
 
